@@ -1,0 +1,9 @@
+htmlcov
+.coverage
+*.sqlite3
+*.db
+*.log
+*__pycache__*
+.vscode/
+venv/
+env/
